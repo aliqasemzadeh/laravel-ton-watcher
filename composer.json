@@ -13,5 +13,8 @@
             "email": "aliqasemzadeh7@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "illuminate/support": "^11.41",
+        "catchain/ton-address": "^1.0"
+    }
 }
