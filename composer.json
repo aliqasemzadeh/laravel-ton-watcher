@@ -1,0 +1,17 @@
+{
+    "name": "aliqasemzadeh/laravel-ton-watcher",
+    "description": "This package help you to watcher a TON address and save transactions.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Aliqasemzadeh\\LaravelTonWatcher\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ali Qasemzadeh",
+            "email": "aliqasemzadeh7@gmail.com"
+        }
+    ],
+    "require": {}
+}
