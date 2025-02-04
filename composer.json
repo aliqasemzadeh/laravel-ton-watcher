@@ -4,7 +4,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Aliqasemzadeh\\LaravelTonWatcher\\": "src/"
+            "AliQasemzadeh\\LaravelTonWatcher\\": "src/"
         }
     },
     "authors": [
@@ -16,5 +16,12 @@
     "require": {
         "illuminate/support": "^11.41",
         "catchain/ton-address": "^1.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "AliQasemzadeh\\LaravelTonWatcher\\TonWatcherServiceProvider"
+            ]
+        }
     }
 }
