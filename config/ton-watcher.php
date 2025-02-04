@@ -3,6 +3,7 @@
 return [
     'api-key' => '',
     'address' => '',
+    'skip-spam' => true,
     'jettons' => [
         'USDT' => 'EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs',
         'USDC' => 'EQB-MPwrd1G6WKNkLz_VnV6WqBDd142KMQv-g1O-8QUA3728',
