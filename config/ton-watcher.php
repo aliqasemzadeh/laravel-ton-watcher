@@ -3,6 +3,7 @@
 return [
     'api-key' => '',
     'address' => '',
+    'page-limit' => 50,
     'skip-spam' => true,
     'jettons' => [
         'USDT' => 'EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs',
