@@ -10,3 +10,9 @@ TonCenter Token.
 composer require aliqasemzadeh/laravel-ton-watcher
 ```
 
+## Requirements
+
+```
+illuminate/support
+catchain/ton-address
+```
